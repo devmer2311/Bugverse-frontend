@@ -1,7 +1,7 @@
 # Bugverse-frontend
 A modern, responsive task and bug tracking application built with Next.js, TypeScript, and Tailwind CSS. This is a frontend demo showcasing a complete task management system with beautiful UI/UX design.
 
-![BugVerse Deployment Link](https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&dpr=1)
+![BugVerse Deployment Link](https://bugverse-by-dev.vercel.app/)
 
 ## ✨ Features
 
